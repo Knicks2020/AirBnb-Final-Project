@@ -3,7 +3,10 @@
  * Selected topic 
     * AirBnb rentals in Orlando, Kissimmee & Tampa
  * Reason why they selected their topic 
-    * We chose this topic so that we could get a 
+    * We chose this topic so that we could do a market analysis on the current state of AirBnB rentals in our target area,
+and also hopefully determine what factors impact whether or not the property is rented on a consistent basis.
+We have a desire to purchase property specifically for an AirBnb so we also want to determine the overhead costs and then 
+hopefully determine a reasonable expected rate of return.
  * Description of their source of data 
     * Our data was taken from
  * Questions they hope to answer with the data
