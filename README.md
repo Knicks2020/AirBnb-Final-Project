@@ -8,7 +8,7 @@ and also hopefully determine what factors impact whether or not the property is 
 We have a desire to purchase property specifically for an AirBnb so we also want to determine the overhead costs and then 
 hopefully determine a reasonable expected rate of return.
  * Description of their source of data 
-    * Our data was taken from
+    * Our data was taken from MashVisor.com
  * Questions they hope to answer with the data
     * What is Success for AirBnB?
     * Using a threshold of 200 nights per year occupancy, is the AirBnb rental operating successfully?
