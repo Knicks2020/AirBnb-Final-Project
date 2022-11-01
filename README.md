@@ -12,4 +12,4 @@ hopefully determine a reasonable expected rate of return.
  * Questions they hope to answer with the data
     * What is Success for an AirBnB rental?
     * Using a threshold of 200+ nights per year occupancy, is the AirBnb rental operating successfully?
-    * What factors contribute to that success? (# of pics, key words in description, beds, location, etc.)
+    * What factors contribute to that success? (# of pics, key words in description, rating, location, etc.)
