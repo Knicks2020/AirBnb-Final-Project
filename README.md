@@ -48,7 +48,7 @@ hopefully determine a reasonable expected rate of return.
  Should any members of the team require assistance, team members are to send a chat through Slack notifying all. All team members are expected to periodically review messages from the Team Chat so that questions can be answered as promptly as possible.
 
  ### GitHub Commit
- Team Members are expected to complete and commit their reviewed and fully tested tasks by due dates indicated in the schedule. If the Team Member believes he or she may miss their deadline, please contact the Team Lead so that further assistance can provided.
+ Team Members are expected to complete and commit their reviewed and fully tested tasks by due dates indicated in the schedule. Upon completion, and if the Team Member is ready for other to review and "MERGE", the Team Member will click on the "New pull request" option in GitHub.com. This action notifies the CM to review and merge the code.  If the Team Member believes he or she may miss their deadline, please contact the Team Lead so that further assistance can provided.
 
  ### Master Schedule
  For each of access to all Team Members, the Master Schedule was imported into an Excel spreadsheet called: [AirBnB Master Schedule](AirBnB_Master_Schedule.xlsx)
