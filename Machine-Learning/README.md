@@ -12,5 +12,5 @@ Our initial linear model was achieved using the following code and rendered a sc
 [SimpleRegression2.ipynb](./SimpleRegression2.ipynb)
 <br>
 
-![Linear_Regression_Model](./Resources/LinearRegression2.png)
+![Linear_Regression_Model](./Resources/LinearRegression02.png)
 
