@@ -79,6 +79,10 @@ SET  num_of_rooms = 0
 WHERE num_of_rooms = '';
 
 UPDATE PROPERTIES
+SET  num_of_beds = 0
+WHERE num_of_beds = '';
+
+UPDATE PROPERTIES
 SET  num_of_baths = 0
 WHERE num_of_baths = '';
 
