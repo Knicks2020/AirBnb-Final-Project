@@ -21,7 +21,7 @@ hopefully determine a reasonable expected rate of return.
    * How much revenue should one expect?
    * What is the typical star-rating?
    * How many days out of the year does it get rented out?
-   * Hom reviews does it typically have?
+   * How many reviews does it typically have?
  * What factors/features contribute to that success? (# of pics, key words in description, beds, location, etc.)
  * Can we map out which locations (city, neighborhood, and/or zone) is most profitable or exhibits the most rentals?
 
