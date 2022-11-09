@@ -41,7 +41,7 @@ hopefully determine a reasonable expected rate of return.
  * Database Management: creating the database in Postgres and connection processes form Machine Learning analysis
  * Machine Learning: analyzing the data using SciKitLearn to include some preprocessing steps using Pandas
  * Dashboard Development: creating imagery using Tableau
- * Presentation: developing a group presentation within Google Slides
+ * Presentation: developing a group presentation within [Google Slides](https://docs.google.com/presentation/d/1Dx93EKkndb-JcdpcIQliZplAEEWd6M3LfJBH-8bJwWs/edit#slide=id.gc6f980f91_0_0)
 
 ### Slack Group
  A Slack Group named "airbnb-analysis-team" was created for the purpose of sharing ideas and meeting online. All developers were invited into the group. Using Microsoft Project as our scheduling tool, an Master Schedule was created identifying the tasks, allocated resources, and due date for each task for each weekly segment. The schedule follows a goal of completing our tasks by Sunday, for group review on Monday and Tuesday, and final submission on Wedneday. Our group meets Tuesdays and Thursdays, and may i include ad-hoc meetings form time to time. 
