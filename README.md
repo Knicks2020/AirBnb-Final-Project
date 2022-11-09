@@ -7,5 +7,7 @@ For our dashboard we chose to use Tableau.  We felt that Tableau provided us wit
 
 
 
+In addition to Tableau, we will be utilizing Google Slides for our presentation.  Google Slides is a modern tool.  Based on the the current environment where many employees work from home, Google Slides is the ultimate tool becase it is hosted on the internet.  This means that coworkers are able to access and view it far easier than persentation built in PowerPoint. Google Slides is 100% free (always a plus in business), designed for collaboration an fully compatible  with other presentation tools.  Our presentations on Google SLides have been drafted below.
 
+* [Google Slides](https://docs.google.com/presentation/d/1Dx93EKkndb-JcdpcIQliZplAEEWd6M3LfJBH-8bJwWs/edit#slide=id.gc6f980f91_0_0)
 
