@@ -14,3 +14,11 @@ Our initial linear model was achieved using the following code and rendered a sc
 
 ![Linear_Regression_Model](./Resources/LinearRegression02.png)
 
+## Second Round of Machine Learning
+
+In our second round of Machine Learning we are using a neural network. The model that we built has started off inconclusive, but with additional optimization should yield some useable results to answer our questions. So far, the preprocessing steps taken have been to remove all low information columns and use one hot encoder to handle categorical data.
+
+[Final_ML](./Final_ML.ipynb)
+<br>
+
+![Neural_Network_Model1](./Resources/Model2.png)
