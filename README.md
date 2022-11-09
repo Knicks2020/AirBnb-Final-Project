@@ -6,6 +6,5 @@ The dashboard is till be modified, however you are free to use the link below to
 
 * [Tableau](https://public.tableau.com/app/profile/sean.gaynor/viz/AirBnbProjectAnalysis/AirBnBAnalysis?publish=yes)
 
-## Presentation
 
 
