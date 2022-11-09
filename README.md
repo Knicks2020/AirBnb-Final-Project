@@ -1,4 +1,4 @@
-<<<<<<main
+
 # AirBnb Final Project
 
 
