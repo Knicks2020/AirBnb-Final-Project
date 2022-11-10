@@ -6,7 +6,7 @@ In order to determine the success or failure of Airbnb properties we will be usi
 
 ## First Round of Machine Learning
 
-Our initial linear model was achieved using the following code and rendered a scatter plot that indicates the rate at which nights booked can generate revenue. Please review the code and model shown below.
+Our initial linear model was achieved using the following code and rendered a scatter plot that indicates the rate at which nights booked can generate revenue. Below is a scatter plot with a line presenting the overall projected path.
 <br>
 
 [SimpleRegression2.ipynb](./SimpleRegression2.ipynb)
