@@ -1,4 +1,3 @@
-
 # AirBnb Final Project
 
 
@@ -56,4 +55,7 @@ hopefully determine a reasonable expected rate of return.
  For each of access to all Team Members, the Master Schedule was imported into an Excel spreadsheet called: [AirBnB Master Schedule](AirBnB_Master_Schedule.xlsx)
 
 
+### Database
+
+The database portion of this project revolves around the visualization of three .csv files; properties,property_locations, and Success_indicators. Included in the Images folder is the Entity Relationship Diagram (ERD). The primary tool used in this section was PGadmin4.
 
