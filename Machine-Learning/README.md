@@ -22,3 +22,7 @@ In our second round of Machine Learning we are using a neural network. The model
 <br>
 
 ![Neural_Network_Model1](./Resources/Model2.png)
+
+## Third Round of Machine Learning
+
+In our third and final round of Machine Learning
