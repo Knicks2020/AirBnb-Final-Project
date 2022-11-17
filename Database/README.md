@@ -9,7 +9,7 @@ To create the tables for the AirBnB database, execute the "create_schema.sql" sc
 ![AirBnb ERD](images/ERD.png)
 
 ## Database Connections
-To connect to this database use the SQLAlchemy package. Below is sample of you you can connect to the database.
+To connect to this database, use the SQLAlchemy package. Below is sample of you you can connect to the database.
 
 ![Example of SQLAlchemy Database Connection](images/database_connection.png)
 
