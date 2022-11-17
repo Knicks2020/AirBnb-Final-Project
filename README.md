@@ -2,7 +2,7 @@
 
 
  ## TOPIC
- * Selected topic 
+ * Selected Topic
     * AirBnb rentals in Orlando, Kissimmee & Tampa
  * Reason why they selected their topic 
     * We chose this topic so that we could do a market analysis on the current state of AirBnB rentals in our target area,
