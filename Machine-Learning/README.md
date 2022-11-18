@@ -50,4 +50,4 @@ In our fifth and final round of machine learning we tried to remove as many outl
 
 ![Neural_Network_Model5](./Resources/Model5.png)
 
-All of the machine learning models above had low accuracy scores. The scores for the Random Forest Classifiers faired a little better. However
+All of the machine learning models above had low accuracy scores. The scores for the Random Forest Classifiers faired a little better. However, the process in creating and training the models as well as implementing accuracy tests was the true objective. As Justin Kan said, "The journey is it's own reward."
