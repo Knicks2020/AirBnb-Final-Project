@@ -31,16 +31,8 @@ hopefully determine a reasonable expected rate of return.
  * Database Storage: PostGres SQL Database
  * Machine Learning: SciKitLearn
  * Dashboard: Tableau
-
- ## TEAM COMMUNICATION PROTOCOL
- Our groups consists of four (4) individuals who are tasked with the following major tasks/roles:
- * Team Lead: creating and maintenance of the development schedule, and facilitation of group tasks
- * Configuration Management (CM): establashing and managing the GitHub repositry, including reviewing and merging files
- * Exploratory Data Anlaysis (EDA): obtaining and performing intial analysis, and cleanup of the source data for importation it the database
- * Database Management: creating the database in Postgres and connection processes form Machine Learning analysis
- * Machine Learning: analyzing the data using SciKitLearn to include some preprocessing steps using Pandas
- * Dashboard Development: creating imagery using Tableau
  * Presentation: developing a group presentation within [Google Slides](https://docs.google.com/presentation/d/1Dx93EKkndb-JcdpcIQliZplAEEWd6M3LfJBH-8bJwWs/edit#slide=id.gc6f980f91_0_0)
+
 
 ### Slack Group
  A Slack Group named "airbnb-analysis-team" was created for the purpose of sharing ideas and meeting online. All developers were invited into the group. Using Microsoft Project as our scheduling tool, an Master Schedule was created identifying the tasks, allocated resources, and due date for each task for each weekly segment. The schedule follows a goal of completing our tasks by Sunday, for group review on Monday and Tuesday, and final submission on Wedneday. Our group meets Tuesdays and Thursdays, and may i include ad-hoc meetings form time to time. 
