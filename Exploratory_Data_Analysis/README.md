@@ -38,7 +38,7 @@ It seems that star ratings are usually either 3, 4 or 5 star ratings.
 ![Effects of Nightly Price on Star Ratings](images/nightly_price_star_rating_chart.png)
 
 ### Effects of Nightly Price on Rental Income
-It seems nightly price and rental income for Kissimme is typically lower than that of Orlando and Tampa. Tampa dn Orlando has a wider and higher range of nightly pricing and rental income.
+It seems nightly price and rental income for Kissimmee is typically lower than that of Orlando and Tampa. Tampa dn Orlando has a wider and higher range of nightly pricing and rental income.
 
 ![Effects of Nightly Price on Rental Income](images/nightly_price_rental_income_chart.png)
 
